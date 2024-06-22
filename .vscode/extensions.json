@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-vscode-remote.remote-containers",
+        "mhutchie.git-graph",
+        "njpwerner.autodocstring",
+    ]
+}
