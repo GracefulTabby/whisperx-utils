@@ -21,7 +21,7 @@ if TYPE_CHECKING:
     from whisperx.asr import FasterWhisperPipeline, TranscriptionResult
 
 # fmt: off
-WhisperModelType: TypeAlias = Literal["tiny", "tiny.en", "base", "base.en", "small", "small.en", 
+WhisperModelType: TypeAlias = Literal["tiny", "tiny.en", "base", "base.en", "small", "small.en",
                                       "medium","medium.en","large-v1","large-v2","large-v3","large"
                                 ]
 OutputFormatType: TypeAlias = Literal["all", "srt", "vtt", "txt", "tsv", "json", "aud"]
